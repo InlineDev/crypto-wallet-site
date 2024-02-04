@@ -1,0 +1,51 @@
+{
+	"name": "Crypto Wallet",
+	"short_name": "Crypto Wallet",
+	"default_locale": "en",
+	"description": "Discover a convenient way to handle crypto payments. Send and receive digital currencies with ease and security. Join us today!",
+	"id": "/index.html",
+	"start_url": "/index.html",
+	"theme_color": "#41A4DF",
+	"background_color": "#232328",
+	"display_override": ["fullscreen", "minimal-ui"],
+	"display": "standalone",
+	"orientation": "portrait-primary",
+	"icons": [
+		{
+			"src": "src/logo/icon.webp",
+			"type": "image/webp",
+			"sizes": "64x64"
+		},
+		{
+			"src": "src/logo/icon.webp",
+			"type": "image/webp",
+			"sizes": "96x96"
+		},
+		{
+			"src": "src/logo/icon.webp",
+			"type": "image/webp",
+			"sizes": "128x128"
+		},
+		{
+			"src": "src/logo/icon.webp",
+			"type": "image/webp",
+			"sizes": "144x144",
+			"purpose": "maskable"
+		},
+		{
+			"src": "src/logo/icon.webp",
+			"type": "image/webp",
+			"sizes": "192x192"
+		},
+		{
+			"src": "src/logo/icon.webp",
+			"type": "image/webp",
+			"sizes": "256x256"
+		},
+		{
+			"src": "src/logo/icon.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	]
+}
